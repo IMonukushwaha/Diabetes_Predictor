@@ -33,10 +33,10 @@ Passes it to the trained classifier.
 
 Outputs prediction.
 
-2️. )Install dependencies
+# Install dependencies
 
 pip install streamlit, numpy, scikit-learn, matplotlib, seaborn, pickle
 
-3.)Running the app
+# Running the app
 
 streamlit run app.py
