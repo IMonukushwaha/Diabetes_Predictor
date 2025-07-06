@@ -2,7 +2,7 @@
 
 A simple Streamlit web app that predicts the likelihood of diabetes based on health metrics using a pre-trained machine learning model.
 
-#Features
+# Features
 
 a.) Enter patient health data (glucose, insulin, BMI, age, etc.)
 
@@ -14,7 +14,7 @@ c.) Displays an intuitive risk assessment:
 
 ⚠️ Likely to have diabetes
 
-#How it works
+# How it works
 
 Takes user input of:
 
