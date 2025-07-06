@@ -18,20 +18,13 @@ c.) Displays an intuitive risk assessment:
 
 Takes user input of:
 
-Pregnancies
-
-Glucose
-
-Blood Pressure
-
-Skin Thickness
-
-Insulin
-
-BMI
-
-Diabetes Pedigree Function
-
+Pregnancies,
+Glucose,
+Blood Pressure,
+Skin Thickness,
+Insulin,
+BMI,
+Diabetes Pedigree Function,
 Age
 
 Scales it using the loaded scaler.
